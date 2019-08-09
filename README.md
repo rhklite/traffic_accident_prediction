@@ -1,10 +1,8 @@
-
 # Towards Smart Cities: Data-Driven Road Accident Prevention
 
 ![logo](images/logo.png)
 
 - This project uses Traffic, Road, and Weather data to predict traffic accidents on road of Toronto.
-
 - [DriveAlive_Presentation.pdf](DriveAlive_Presentation.pdf) contains the presentation slides that gives a overview of the project.
 - [DriveAlive_Report.pdf](DriveAlive_Report.pdf) contains a detailed project report.
 - [Toronto_Traffic_Accident_Prediction.ipynb](Toronto_Traffic_Accident_Prediction.ipynb) contains the analysis code.
