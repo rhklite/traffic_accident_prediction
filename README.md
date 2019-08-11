@@ -25,7 +25,7 @@
 - Amanda Aleong
 - Francis Cruz
 - Youngmok Ko
-- Shi Yu
+- [Shi Yu](https://github.com/LillyYu2019?tab=repositories)
 - Richard Hu
 - Hao Xing
 
