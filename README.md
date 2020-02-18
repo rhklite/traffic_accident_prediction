@@ -23,7 +23,7 @@
 ## Team Members
 
 - Amanda Aleong
-- Francis Cruz
+- [Francis Cruz](https://github.com/franciscedriccruz)
 - Youngmok Ko
 - [Shi Yu](https://github.com/LillyYu2019?tab=repositories)
 - Richard Hu
