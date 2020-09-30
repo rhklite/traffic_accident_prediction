@@ -24,7 +24,7 @@
 
 - [Amanda Aleong](https://www.linkedin.com/in/amanda-aleong-69869b98/)
 - [Francis Cruz](https://github.com/franciscedriccruz)
-- [Youngmok Ko](https://www.linkedin.com/in/justinkoyoungm/?originalSubdomain=ca)
+- [Justin (Youngmok) Ko](https://www.linkedin.com/in/justinkoyoungm/?originalSubdomain=ca)
 - [Shi Yu](https://github.com/LillyYu2019?tab=repositories)
 - [Richard Hu](https://github.com/rhklite)
 - [Hao Xing](https://www.linkedin.com/in/hao-xing-6707365a/?originalSubdomain=ca)
