@@ -22,11 +22,11 @@
 
 ## Team Members
 
-- [Amanda Aleong](https://www.linkedin.com/in/amanda-aleong-69869b98/)
-- [Francis Cruz](https://github.com/franciscedriccruz)
-- [Justin (Youngmok) Ko](https://www.linkedin.com/in/justinkoyoungm/?originalSubdomain=ca)
-- [Shi Yu](https://github.com/LillyYu2019?tab=repositories)
-- [Richard Hu](https://github.com/rhklite)
-- [Hao Xing](https://www.linkedin.com/in/hao-xing-6707365a/?originalSubdomain=ca)
+- Amanda Aleong [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/amanda-aleong-69869b98/)
+- Francis Cruz [<img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/franciscedriccruz)
+- Justin (Youngmok) Ko [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/justinkoyoungm/?originalSubdomain=ca) [<img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/justin-ko)
+- Shi Yu [<img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/LillyYu2019?tab=repositories)
+- Richard Hu [<img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/rhklite)
+- Hao Xing [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/hao-xing-6707365a/?originalSubdomain=ca)
 
 
